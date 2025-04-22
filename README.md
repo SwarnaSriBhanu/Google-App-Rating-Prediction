@@ -1,4 +1,4 @@
-📱 Google Playstore Apps Rating Prediction
+📱 Google Playstore Apps Rating Prediction:
 
 This project aims to predict the ratings of apps on the Google Playstore using data analysis and machine learning techniques. It explores the impact of various features like app category, number of installs, size, and more on user ratings.
 
