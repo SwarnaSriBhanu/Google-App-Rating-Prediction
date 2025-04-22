@@ -1,14 +1,15 @@
 📱 Google Playstore Apps Rating Prediction
+
 This project aims to predict the ratings of apps on the Google Playstore using data analysis and machine learning techniques. It explores the impact of various features like app category, number of installs, size, and more on user ratings.
 
-🚀 Project Overview
+Project Overview:
 Goal: Predict app ratings using machine learning models.
 
 Dataset: Google Playstore data (publicly available dataset).
 
 Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook.
 
-📊 Exploratory Data Analysis (EDA)
+📊 Exploratory Data Analysis (EDA):
 Data cleaning (handling missing values, duplicates, outliers).
 
 Visualization of:
@@ -21,7 +22,7 @@ Category-wise analysis
 
 Sentiment analysis (if available in extended dataset)
 
-🧠 Machine Learning Models
+🧠 Machine Learning Models:
 Algorithms Used:
 
 Linear Regression
